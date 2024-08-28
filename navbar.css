@@ -1,0 +1,47 @@
+/* Resetează stilurile implicite */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+}
+
+a,
+span {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 18px;
+}
+
+a:hover,
+span:hover {
+  background-color: #575757;
+  border-radius: 5px;
+}
+
+.left {
+  margin-left: 0;
+}
+
+.right {
+  margin-right: 0;
+}
+
+.center {
+  flex-grow: 1;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}

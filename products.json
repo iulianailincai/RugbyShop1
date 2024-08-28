@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Minge Rugby Adidas Predator",
+      "description": "Minge de rugby Adidas Predator cu tehnologie de amortizare a impactului.",
+      "price": 150.0,
+      "stock": 30,
+      "image": "images/minge_rugby_adidas_pro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ghete Rugby Nike Mercurial",
+      "description": "Ghete de rugby Nike Mercurial, ușoare și durabile.",
+      "price": 300.0,
+      "stock": 20,
+      "image": "images/ghete_rugby_nike_mercurial.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Casca Rugby Gilbert Xact",
+      "description": "Casca de rugby Gilbert Xact, protecție excelentă pentru cap.",
+      "price": 200.0,
+      "stock": 25,
+      "image": "images/casca_rugby_gilbert_xact.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Protecție Dentară OPRO Platinum",
+      "description": "Protecție dentară OPRO Platinum, confort maxim și protecție avansată.",
+      "price": 100.0,
+      "stock": 50,
+      "image": "images/protectie_dentara_opro_platinum.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tricou Rugby Canterbury Vapodri",
+      "description": "Tricou de rugby Canterbury Vapodri, material respirabil și ușor.",
+      "price": 120.0,
+      "stock": 40,
+      "image": "images/tricou_rugby_canterbury_vapodri.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pantaloni Scurți Rugby Adidas Elite",
+      "description": "Pantaloni scurți de rugby Adidas Elite, confort și performanță.",
+      "price": 150.0,
+      "stock": 35,
+      "image": "images/pantaloni_scurti_rugby_adidas_elite.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jambiere Rugby Canterbury Advantage",
+      "description": "Jambiere de rugby Canterbury Advantage, protecție și suport suplimentar.",
+      "price": 90.0,
+      "stock": 45,
+      "image": "images/jambiere_rugby_canterbury_advantage.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mănuși Rugby Gilbert Atomic",
+      "description": "Mănuși de rugby Gilbert Atomic, aderență și confort excelent.",
+      "price": 80.0,
+      "stock": 60,
+      "image": "images/manusi_rugby_gilbert_atomic.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Suport Minge Rugby",
+      "description": "Suport pentru minge de rugby, ideal pentru antrenamente.",
+      "price": 50.0,
+      "stock": 50,
+      "image": "images/suport_minge_rugby.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Genunchiere Rugby Nike Pro",
+      "description": "Genunchiere de rugby Nike Pro, suport și protecție excelentă.",
+      "price": 110.0,
+      "stock": 40,
+      "image": "images/genunchiere_rugby_nike_pro.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Saci Lovituri Rugby Rhino",
+      "description": "Saci de lovituri Rugby Rhino, rezistenți și durabili.",
+      "price": 350.0,
+      "stock": 10,
+      "image": "images/saci_lovituri_rugby_rhino.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bandă Kinesiologică Rugby",
+      "description": "Bandă kinesiologică pentru rugby, pentru suport și recuperare.",
+      "price": 40.0,
+      "stock": 70,
+      "image": "images/banda_kinesiologica_rugby.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Garderobă Rugby",
+      "description": "Garderobă pentru echipamente de rugby, organizare eficientă.",
+      "price": 600.0,
+      "stock": 5,
+      "image": "images/garderoba_rugby.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Troller Echipament Rugby",
+      "description": "Troller pentru echipament de rugby, capacitate mare și durabilitate.",
+      "price": 200.0,
+      "stock": 20,
+      "image": "images/troller_echipament_rugby.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Vestă Protecție Rugby Canterbury",
+      "description": "Vestă de protecție Canterbury pentru rugby, confort și siguranță.",
+      "price": 150.0,
+      "stock": 30,
+      "image": "images/vesta_protectie_rugby_canterbury.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Short Rugby Adidas Climacool",
+      "description": "Shorturi de rugby Adidas Climacool, tehnologie de răcire și confort.",
+      "price": 130.0,
+      "stock": 35,
+      "image": "images/short_rugby_adidas_climacool.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Ciorapi Rugby Nike Hyperstrong",
+      "description": "Ciorapi de rugby Nike Hyperstrong, protecție suplimentară.",
+      "price": 60.0,
+      "stock": 50,
+      "image": "images/ciorapi_rugby_nike_hyperstrong.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Set Antrenament Rugby",
+      "description": "Set complet pentru antrenamente de rugby, incluzând diverse echipamente.",
+      "price": 500.0,
+      "stock": 15,
+      "image": "images/set_antrenament_rugby.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Căciulă Rugby Canterbury",
+      "description": "Căciulă de rugby Canterbury, călduroasă și confortabilă.",
+      "price": 70.0,
+      "stock": 40,
+      "image": "images/caciula_rugby_canterbury.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rucsac Rugby Adidas",
+      "description": "Rucsac Adidas pentru rugby, cu compartimente multiple.",
+      "price": 120.0,
+      "stock": 25,
+      "image": "images/rucsac_rugby_adidas.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Pantofi Schimb Rugby Nike",
+      "description": "Pantofi de schimb Nike pentru rugby, ideal pentru meciuri și antrenamente.",
+      "price": 180.0,
+      "stock": 30,
+      "image": "images/pantofi_schimb_rugby_nike.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Rame Meciuri Rugby",
+      "description": "Rame pentru meciuri de rugby, durabile și confortabile.",
+      "price": 90.0,
+      "stock": 50,
+      "image": "images/rame_meciuri_rugby.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Protecție Coate Rugby",
+      "description": "Protecție pentru coate, pentru reducerea riscurilor de accidentări.",
+      "price": 75.0,
+      "stock": 60,
+      "image": "images/protectie_coate_rugby.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Set Echipament Rugby",
+      "description": "Set complet de echipament de rugby, inclusiv haine și accesorii.",
+      "price": 700.0,
+      "stock": 20,
+      "image": "images/set_echipament_rugby.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Șapcă Rugby Nike",
+      "description": "Șapcă Nike pentru rugby, ideală pentru protecție și stil.",
+      "price": 50.0,
+      "stock": 45,
+      "image": "images/sapca_rugby_nike.jpg"
+    }
+  ]
+}
